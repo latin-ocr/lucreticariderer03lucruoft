@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN"
+    "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en">
+ <head>
+  <title>
+</title>
+<meta http-equiv="Content-Type" content="text/html;charset=utf-8" />
+  <meta name='ocr-system' content='tesseract 3.04.00' />
+  <meta name='ocr-capabilities' content='ocr_page ocr_carea ocr_par ocr_line ocrx_word'/>
+</head>
+<body>
+  <div class='ocr_page' id='page_1' title='image "./lucreticariderer03lucruoft/lucreticariderer03lucruoft_0005.png"; bbox 0 0 1747 2620; ppageno 0'>
+   <div class='ocr_carea' id='block_1_1' title="bbox 250 1207 1398 1447">
+    <p class='ocr_par' dir='ltr' id='par_1_1' title="bbox 250 1207 1398 1447">
+     <span class='ocr_line' id='line_1_1' title="bbox 250 1207 1398 1279; baseline -0.002 -2"><span class='ocrx_word' id='word_1_1' title='bbox 250 1209 349 1277; x_wconf 81' lang='lat' dir='ltr'><strong>T.</strong></span> <span class='ocrx_word' id='word_1_2' title='bbox 439 1209 1018 1279; x_wconf 75' lang='lat' dir='ltr'>LUGRETI</span> <span class='ocrx_word' id='word_1_3' title='bbox 1101 1207 1398 1279; x_wconf 72' lang='lat' dir='ltr'><strong>CARI</strong></span> 
+     </span>
+     <span class='ocr_line' id='line_1_2' title="bbox 298 1384 1347 1447; baseline -0.003 -2"><span class='ocrx_word' id='word_1_4' title='bbox 298 1385 436 1445; x_wconf 80' lang='lat' dir='ltr'><strong>DE</strong></span> <span class='ocrx_word' id='word_1_5' title='bbox 501 1385 873 1447; x_wconf 77' lang='lat' dir='ltr'>RERUM</span> <span class='ocrx_word' id='word_1_6' title='bbox 933 1384 1347 1445; x_wconf 74' lang='lat' dir='ltr'><strong>NATURA</strong></span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_2' title="bbox 614 1582 1033 1631">
+    <p class='ocr_par' dir='ltr' id='par_1_2' title="bbox 614 1582 1033 1631">
+     <span class='ocr_line' id='line_1_3' title="bbox 614 1582 1033 1631; baseline -0.002 0"><span class='ocrx_word' id='word_1_7' title='bbox 614 1583 823 1631; x_wconf 80' lang='lat' dir='ltr'>LIBRI</span> <span class='ocrx_word' id='word_1_8' title='bbox 893 1582 1033 1630; x_wconf 78' lang='lat' dir='ltr'><strong>SEX</strong></span> 
+     </span>
+    </p>
+   </div>
+  </div>
+ </body>
+</html>
